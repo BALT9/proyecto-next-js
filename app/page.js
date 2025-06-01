@@ -17,6 +17,9 @@ export default function Home() {
           <li>
             Get started by editing<code>app/page.js</code>.
           </li>
+          <li>
+            Primeros paso con next js<code>app/page.js</code>.
+          </li>
           <li>Save and see your changes instantly.</li>
         </ol>
 
